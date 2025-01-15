@@ -1,0 +1,12 @@
+lightning_logs/
+.idea/
+.vscode/
+.vscode-server/
+.wget_hsts
+__pycache__/
+first_model.ckpt
+*.pth
+*.pt
+img_arrs/
+.lightning_studio/
+.wget_hsts
